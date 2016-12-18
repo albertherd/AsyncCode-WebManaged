@@ -1,0 +1,6 @@
+C:\Users\Albert\documents\visual studio 2015\Projects\KssAsyncCodeWeb\KssAyncCodeWebConsumer\bin\Debug\KssAyncCodeWebConsumer.exe.config
+C:\Users\Albert\documents\visual studio 2015\Projects\KssAsyncCodeWeb\KssAyncCodeWebConsumer\bin\Debug\KssAyncCodeWebConsumer.exe
+C:\Users\Albert\documents\visual studio 2015\Projects\KssAsyncCodeWeb\KssAyncCodeWebConsumer\bin\Debug\KssAyncCodeWebConsumer.pdb
+C:\Users\Albert\documents\visual studio 2015\Projects\KssAsyncCodeWeb\KssAyncCodeWebConsumer\obj\Debug\KssAyncCodeWebConsumer.exe
+C:\Users\Albert\documents\visual studio 2015\Projects\KssAsyncCodeWeb\KssAyncCodeWebConsumer\obj\Debug\KssAyncCodeWebConsumer.pdb
+C:\Users\Albert\documents\visual studio 2015\Projects\KssAsyncCodeWeb\KssAyncCodeWebConsumer\obj\Debug\KssAyncCodeWebConsumer.csprojResolveAssemblyReference.cache
